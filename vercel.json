@@ -4,18 +4,5 @@
     "framework": "nextjs",
     "github": {
         "silent": true
-    },
-    "crons": [{
-        "path": "/api/revalidate",
-        "schedule": "0 0 * * *"
-    }],
-    "rewrites": [{
-        "source": "/(.*)",
-        "destination": "/$1"
-    }],
-    "functions": {
-        "api/revalidate.ts": {
-            "maxDuration": 60
-        }
     }
 }
