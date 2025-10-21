@@ -41,7 +41,7 @@ const defaultCertifications: Certification[] = [
   {
     id: 3,
     title: "Microsoft Azure AI Document Intelligence",
-    organization: "Online course on Microsoft's AI Document Intelligence.This course provided in-depth knowledge on leveraging Microsoft Azure 's AI capabilities to extract structured data from unstructured documents, streamlining document processing tasks.",
+    organization: "Online course on Microsoft's AI Document Intelligence.This course provided in-depth knowledge on leveraging Microsoft Azure 's AI capabilities to extract structured data from unstructured documents, streamlining document processing tasks. This achievement enhances my ability to develop intelligent document processing solutions, contributing to more efficient and automated workflows.",
     date: "23/04/2025",
     imageLink: "https://homely-aqua-pptjpmfoz3.edgeone.app/1745410129764.jpeg",
     linkedinPostLink: "https://www.linkedin.com/posts/harsha-s-0043a9327_microsoftlearn-azureai-documentintelligence-activity-7320780698431250433-fGfC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJ2OsQBR8Kdvhn7RD36WPM5nJ0GSR7fRZ4",
