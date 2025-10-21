@@ -115,7 +115,7 @@ export default function Hero() {
                                 </button>
                                 {/* NEW: View Resume button/link added here */}
                                 <a
-                                    href="https://drive.google.com/file/d/1afC7ZUQQJSAZCiBqB8JlzeT93xLI3SYY/view?usp=sharing"
+                                    href="https://squealing-yellow-nfrlhbtjgj.edgeone.app/Harsha%20S%20resume%20(1).pdf"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="px-8 py-4 bg-transparent text-cyan-400 border-2 border-purple-500 font-black text-lg hover:bg-purple-900/30 hover:shadow-lg hover:shadow-purple-500/50 transition-all duration-200 active:scale-95 flex items-center justify-center"
