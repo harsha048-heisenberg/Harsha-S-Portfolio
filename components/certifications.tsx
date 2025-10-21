@@ -30,6 +30,7 @@ const defaultCertifications: Certification[] = [
     imageLink: "https://physical-crimson-dmm5etqemk.edgeone.app/Screenshot%202025-10-21%20131043.png",
     linkedinPostLink: "https://www.linkedin.com/posts/harsha-s-0043a9327_ai-internship-completion-certificate-activity-7332212564296110081-4GsQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJ2OsQBR8Kdvhn7RD36WPM5nJ0GSR7fRZ4",
   },
+  {
     id: 2,
     title: "Data Science Job Simulation",
     organization: "Job simulation for a Cybersecurity Analyst role by BCG X in collaboration with Forage",
