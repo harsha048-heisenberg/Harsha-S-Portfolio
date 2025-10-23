@@ -70,7 +70,7 @@ export default function Hero() {
                                     <div className="relative rounded-full overflow-hidden bg-gray-900 border-4 border-black">
                                         {/* Placeholder for Profile Image */}
                                         <img
-                                            src="https://enchanting-harlequin-7tbe4a865g.edgeone.app/harshas.jpg"
+                                            src="https://hon-tan-sc1jfygrvd.edgeone.app/Hs.png"
                                             alt="Harsha S Profile"
                                             className="object-cover w-full h-full"
                                         />
